@@ -6,9 +6,9 @@ public class LocatorPractive {
     public static String Base_URL="https://www.demo.guru99.com/v4/index.php";
     public static String inputUserName="//*[@name='uid']";
     public static String inputPassword="//*[@name='password']";
-    // public static String buttonLogin="//*[@name='btnLogin']";
+    public static String buttonLogin="//*[@name='btnLogin']";
 
-    // public static String btnReset="//*[@name='btnReset']";
+    public static String btnReset="//*[@name='btnReset']";
     //home
     public static String menu_Manager="//*[normalize-space()='Manager']";
     //menu chang password
