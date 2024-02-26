@@ -6,7 +6,7 @@ public class ActionKeyWord {
     private static WebDriver driver;
 
     public ActionKeyWord(WebDriver driver) {
-        // this.driver = driver;
+        this.driver = driver;
     }
 
 }
